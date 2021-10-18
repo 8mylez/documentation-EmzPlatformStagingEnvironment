@@ -1,7 +1,7 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Staging Environment"
 titleSeparator = "-"
 titleAddition = "Modern Documentation Theme"
 description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
@@ -50,8 +50,8 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+footer = "Entwickelt von <a href=\"https://8mylez.com/\" target=\"_blank\">8mylez.com</a>"
+copyRight = "Copyright (c) 8mylez GmbH"
 
 # Alert
 alert = false
